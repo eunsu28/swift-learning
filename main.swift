@@ -6,7 +6,7 @@ print("Ayden Kim")
 //var = 변수
 //let = 상수
 let ayden = "Ayden"
-let plus = " tall"
+let plus = " is tall"
 
 print(ayden + plus)
 

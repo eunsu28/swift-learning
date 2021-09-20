@@ -3,5 +3,10 @@ print("Hello, World")
 //\n
 print("Ayden Kim")
 
-let explicitDouble: Double = 70
+//var = 변수
+//let = 상수
+let ayden = "Ayden"
+let plus = " tall"
+
+print(ayden + plus)
 

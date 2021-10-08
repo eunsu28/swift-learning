@@ -14,5 +14,10 @@ let a = "Hello I am \(ayden)"
 //\()
 
 let list = ["Oh", "interesting"]
-//list
+//list / array
+
+let interestingList = [
+  "hello" : "nice to meet you"
+]
+//뭐지? function인가?
 

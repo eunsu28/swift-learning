@@ -13,7 +13,7 @@ print(ayden + plus)
 let a = "Hello I am \(ayden)"
 //\()
 
-let list = ["Oh", "interesting"]
+var list = ["Oh", "interesting"]
 //list / array
 
 let interestingList = [
@@ -21,3 +21,6 @@ let interestingList = [
 ]
 //뭐지? function인가?
 
+print(list)
+list.append("Ayden")
+print(list)

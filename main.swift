@@ -25,4 +25,11 @@ print(list)
 list.append("Ayden")
 print(list)
 
-//
+let b = 10; 
+if b > 5 {
+  print("Hello")
+} else {
+  print("bye")
+}
+//if 문 
+//참고로 변수 이름은 중복 되면 안됨

@@ -31,5 +31,10 @@ if b > 5 {
 } else {
   print("bye")
 }
+
+var abc = "abc"
+if abc == "abc" {
+  print("hello")
+}
 //if 문 
 //참고로 변수 이름은 중복 되면 안됨

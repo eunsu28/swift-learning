@@ -32,12 +32,18 @@ if b > 5 {
   print("bye")
 }
 
-var abc = "abc"
+let abc = "abc"
 if abc == "abc" {
   print("hello")
 }
 //if 문 
 //참고로 변수 이름은 중복 되면 안됨
+
+var 김은수 = "김은수"
+if 김은수 == "김은수" {
+  김은수 = "Ayden"
+  print("김은수의 영어 이름은 \(김은수)")
+}
 
 var forwihle = 1; 
 while forwihle < 100 {

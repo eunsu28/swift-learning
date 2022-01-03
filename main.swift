@@ -38,3 +38,9 @@ if abc == "abc" {
 }
 //if 문 
 //참고로 변수 이름은 중복 되면 안됨
+
+var forwihle = 1; 
+while forwihle < 100 {
+  forwihle *= 2
+  print(forwihle)
+}

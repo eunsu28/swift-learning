@@ -50,3 +50,5 @@ while forwihle < 100 {
   forwihle *= 2
   print(forwihle)
 }
+
+//신기하구만

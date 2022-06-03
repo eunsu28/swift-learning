@@ -51,4 +51,6 @@ while forwihle < 100 {
   print(forwihle)
 }
 
+let hw = "Hello, World"
+print(hw)
 //신기하구만

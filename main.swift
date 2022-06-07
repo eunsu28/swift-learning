@@ -54,3 +54,5 @@ while forwihle < 100 {
 let hw = "Hello, World"
 print(hw)
 //신기하구만
+
+//swift 쉬움

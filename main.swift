@@ -46,7 +46,9 @@ if 김은수 == "김은수" {
 }
 
 var forwihle = 1; 
+var num = 0;
 while forwihle < 100 {
   forwihle *= 2
-  print(forwihle)
+  num += 1
+  print("2의 ", num, "제곱: ", forwihle)
 }

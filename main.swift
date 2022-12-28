@@ -50,9 +50,3 @@ while forwihle < 100 {
   forwihle *= 2
   print(forwihle)
 }
-
-let hw = "Hello, World"
-print(hw)
-//신기하구만
-
-//swift 쉬움

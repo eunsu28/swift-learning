@@ -45,6 +45,7 @@ if 김은수 == "김은수" {
   print("김은수의 영어 이름은 \(김은수)")
 }
 
+// the square number of two
 var forwihle = 1; 
 var num = 0;
 while forwihle < 100 {
@@ -52,3 +53,4 @@ while forwihle < 100 {
   num += 1
   print("2의 ", num, "제곱: ", forwihle)
 }
+//

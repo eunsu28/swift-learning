@@ -30,3 +30,14 @@ for s in score_list {
   }
 }
 //
+
+//pg 8 ~ 9
+let for_switch = "1"
+switch for_switch {
+case "2":
+  print("HELLO")
+case "3":
+  print("bye")
+default:
+  print("wait a minute, who are you")
+}

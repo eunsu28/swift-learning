@@ -39,3 +39,5 @@ case "1":
 default:
   print("wait a minute, who are you")
 }
+
+//pg 10 ~ 11
